@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <com.example.myapplication.FlowLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        >
+        <TextView
+            android:background="@color/black"
+            android:text="Welcome"
+            android:textColor="#43BBE7"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"/>
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:background="@color/black"
+            android:text="IT工程师"
+            android:textColor="#43BBE7" />
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:background="@color/black"
+            android:text="我真是可以的"
+            android:textColor="#43BBE7" />
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:background="@color/black"
+            android:text="你觉得呢"
+            android:textColor="#43BBE7" />
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:background="@color/black"
+            android:text="不要"
+            android:textColor="#43BBE7" />
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:background="@color/black"
+            android:text="努力ing"
+            android:textColor="#43BBE7" />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:background="@color/black"
+            android:text="I thick i can"
+            android:textColor="#43BBE7" />
+
+
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:background="@color/black"
+            android:text="努力ing"
+            android:textColor="#43BBE7" />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:background="@color/black"
+            android:text="I thick i can"
+            android:textColor="#43BBE7" />
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:background="@color/black"
+            android:text="不"
+            android:textColor="#43BBE7" />
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:background="@color/black"
+            android:text="不"
+            android:textColor="#43BBE7" /><TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:background="@color/black"
+        android:text="不2222222222222"
+        android:textColor="#43BBE7" />
+
+    </com.example.myapplication.FlowLayout>
+
+
+</LinearLayout>
